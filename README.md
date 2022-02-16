@@ -1,0 +1,3 @@
+# camel-banana-problem
+camel takes 1000 bananas to first checkpoint. There it drops 600 bananas and returns with 200 bananas. Then the camel takes again 1000 bananas to first checkpoint. Again, it drops 600 bananas and returns with 200 bananas. After this, the camel takes the last 1000 bananas from the plantation to first checkpoint. From checkpoint 1, it leaves with 1000 bananas to checkpoint
+2. In checkpoint 2, it drops 333 1/3 bananas and returns with 333 1/3 bananas. Then it takes the second load of 1000 bananas from checkpoint 1 to checkpoint 2. Finally, it carries the 1000 bananas from checkpoint 2 to the market, where it arrives with 533 bananas.
